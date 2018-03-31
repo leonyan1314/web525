@@ -43,7 +43,7 @@
         	<!--/.navbar-header-->
 	        <div id="main-nav" class="collapse navbar-collapse">
 	            <ul class="nav navbar-nav" id="mainNav">
-		            <li class="active"><a href="#home" class="scroll-link">Home</a></li>
+		            <li class="active"><a href="#home" class="scroll-link">欢迎访问亮亮科技</a></li>
 					<li><a href="#aboutUs" class="scroll-link">About Us</a></li>
 					<li><a href="#services" class="scroll-link">Services</a></li>
 					<li><a href="#portfolio" class="scroll-link">Portfolio</a></li>
