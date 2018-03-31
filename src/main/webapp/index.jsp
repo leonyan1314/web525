@@ -1,10 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <!doctype html>
 <!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
 <!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->
 <head>
-	<meta charset="utf-8">
+<meta charset="GB2312">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!--[if lt IE 9]> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -43,7 +46,6 @@
         	<!--/.navbar-header-->
 	        <div id="main-nav" class="collapse navbar-collapse">
 	            <ul class="nav navbar-nav" id="mainNav">
-		            <li class="active"><a href="#home" class="scroll-link">欢迎访问亮亮科技</a></li>
 					<li><a href="#aboutUs" class="scroll-link">关于我们</a></li>
 					<li><a href="#services" class="scroll-link">Services</a></li>
 					<li><a href="#portfolio" class="scroll-link">Portfolio</a></li>
