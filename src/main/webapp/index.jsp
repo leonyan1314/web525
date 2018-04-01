@@ -7,7 +7,7 @@
 <!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->
 <head>
-<meta charset="GB2312">
+	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!--[if lt IE 9]> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -46,7 +46,8 @@
         	<!--/.navbar-header-->
 	        <div id="main-nav" class="collapse navbar-collapse">
 	            <ul class="nav navbar-nav" id="mainNav">
-					<li><a href="#aboutUs" class="scroll-link">关于我们</a></li>
+		            <li class="active"><a href="#home" class="scroll-link">Home</a></li>
+					<li><a href="#aboutUs" class="scroll-link">About Us</a></li>
 					<li><a href="#services" class="scroll-link">Services</a></li>
 					<li><a href="#portfolio" class="scroll-link">Portfolio</a></li>
 					<li><a href="#team" class="scroll-link">Team</a></li>
@@ -515,10 +516,10 @@
       <div class="row">
         <div class="col-sm-12">          
            <ul class="socialIcons">
-              <li><a href="#" class="fbIcon" target="_blank"><i class="fa fa-facebook-square fa-lg"></i></a></li>
-              <li><a href="#" class="twitterIcon" target="_blank"><i class="fa fa-twitter-square fa-lg"></i></a></li>
-              <li><a href="#" class="googleIcon" target="_blank"><i class="fa fa-google-plus-square fa-lg"></i></a></li>
-              <li><a href="#" class="pinterest" target="_blank"><i class="fa fa-pinterest-square fa-lg"></i></a></li>
+              <li><a href="#" class="fbIcon" target="_blank"><i class="fa fa-facebook-square fa-lg""></i></a></li>
+              <li><a href="#" class="twitterIcon" target="_blank"><i class="fa fa-twitter-square fa-lg""></i></a></li>
+              <li><a href="#" class="googleIcon" target="_blank"><i class="fa fa-google-plus-square fa-lg""></i></a></li>
+              <li><a href="#" class="pinterest" target="_blank"><i class="fa fa-pinterest-square fa-lg""></i></a></li>
             </ul>   <div class="pull-right webThemez">Copyright &copy; 2016.Company name All rights reserved.More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a></div>
         </div>
       </div>  <!-- / .row -->
