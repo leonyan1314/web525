@@ -11,7 +11,7 @@
     <!--[if lt IE 9]> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <![endif]-->	
-	<title>Home</title>	
+	<title>开放API平台</title>	
 	<meta name="description" content="">
 	<meta name="author" content="WebThemez">    
     <!--[if lt IE 9]>
@@ -27,6 +27,9 @@
 <link rel="stylesheet" href="css/styles.css"/>
 <!-- Font Awesome -->
 <link href="font/css/font-awesome.min.css" rel="stylesheet">
+<link rel="shortcut icon" href="./images/IEbg.png" type="image/x-icon"></link>
+
+
 </head>
 
 <body>
@@ -45,14 +48,17 @@
         	<!--/.navbar-header-->
 	        <div id="main-nav" class="collapse navbar-collapse">
 	            <ul class="nav navbar-nav" id="mainNav">
-		            <li class="active"><a href="#home" class="scroll-link">Home</a></li>
-					<li><a href="#aboutUs" class="scroll-link">About Us</a></li>
-					<li><a href="#services" class="scroll-link">Services</a></li>
-					<li><a href="#portfolio" class="scroll-link">Portfolio</a></li>
-					<li><a href="#team" class="scroll-link">Team</a></li>
-					<li><a href="#contactUs" class="scroll-link">Contact Us</a></li> 
+		            <li class="active"><a href="#home" class="scroll-link">首页</a></li>
+					<li><a href="#aboutUs" class="scroll-link">解决方案</a></li>
+					<li><a href="#services" class="scroll-link">API案例</a></li>
+					<li><a href="#portfolio" class="scroll-link">API使用规范</a></li>
+					<li><a href="#team" class="scroll-link">我们团队</a></li>
+					<li><a href="#contactUs" class="scroll-link">联系我们</a></li> 
+				    <li><a href="#" class="scroll-link">        登录|注册</a></li> 
+					
 	            </ul>
 	        </div>
+	        
 	        <!--/.navbar-collapse-->
 	    </nav>
 	    <!--/.navbar-->
@@ -69,27 +75,22 @@
 		    <p><a href="#about" class="button-outline"> More.. </a></p>-->
                <div id="da-slider" class="da-slider">
 				<div class="da-slide">
-					<h2>Easy management</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-					<a href="#" class="da-link button-outline">Read more</a>
+					<h2>构建OPEN API平台</h2>
+					<p>共享各类服务系统业务接口，实现整体供应链一体化，提升作业效率及用户体验，实现与客户市场双赢</p>
+					<a href="#" class="da-link button-outline">查看更多</a>
+					<div class="da-img"></div>
+				</div>
+				
+				<div class="da-slide">
+					<h2>打造互联网+供应链金融一体化</h2>
+					<p>基于互联网开放平台，通过融合供应链各环节，构建互联网+供应链金融生态链，提升市场竞争力，拓宽获客渠道</p>
+					<a href="#" class="da-link button-outline">查看更多</a>
 					<div class="da-img"></div>
 				</div>
 				<div class="da-slide">
-					<h2>Revolution</h2>
-					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-					<a href="#" class="da-link button-outline">Read more</a>
-					<div class="da-img"></div>
-				</div>
-				<div class="da-slide">
-					<h2>Warm welcome</h2>
-					<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.</p>
-					<a href="#" class="da-link button-outline">Read more</a>
-					<div class="da-img"></div>
-				</div>
-				<div class="da-slide">
-					<h2>Quality Control</h2>
-					<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-					<a href="#" class="da-link button-outline">Read more</a>
+					<h2>全面提升用户体验</h2>
+					<p>基于消费者角度，设计和重构产品体验，提升我行产品的用户体验，重构核心竞争力</p>
+					<a href="#" class="da-link button-outline">查看更多</a>
 					<div class="da-img"></div>
 				</div>
 				<nav class="da-arrows">
@@ -106,22 +107,22 @@
 	<div class="container">
 							    <div class="heading text-center">
 								<!-- Heading -->
-								<h2>About Us</h2>								 
-								<p>At lorem ipsum available, but the majority have suffered alteration humour or randomised Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur </p>
+								<h2>解决方案一览</h2>								 
+								<p>本平台整合了各类金融业务接口，旨在通过打造一个统一金融服务接入平台，为广大开发者提供快捷、方便和易用的供应链金融应用开放接口，并且在此基础上，通过OpenAPI平台面向广大消费者与开发者发布各类应用，将银行、开发者、 用户汇聚在一起，建立互利共赢的“金融服务生态圈” </p>
 							</div>
 							
 								<div class="row">
 									<div class="col-md-3 col-sm-6">	
                                     <div class="tray text-center">											
-											<h3><i class="fa fa-desktop color"></i> &nbsp;HTML5/CSS3</h3>
+											<h3><i class="fa fa-desktop color"></i> &nbsp;盈利能力</h3>
 											<!-- Paragraph -->
-											<p>Duis aute irure dolor in repreh enderit in voluptate velit esse cillum dolore pariatur.</p>										
+											<p>按年度、季度获取盈利能力数据，结果返回有：净资产收益率，净利率，毛利率，净利润，每股收益...</p>										
 									 </div>
                                     </div>
 									<div class="col-md-3 col-sm-6">	
                                     <div class="tray text-center">											
 											<!-- Heading -->
-											<h3><i class="fa fa-cloud color"></i> &nbsp;Bootstrap</h3>
+											<h3><i class="fa fa-cloud color"></i> &nbsp;历史行情</h3>
 											<!-- Paragraph -->
 											<p>Duis aute irure dolor in repreh enderit in voluptate velit esse cillum dolore pariatur.</p> 										
 									 </div>
@@ -129,7 +130,7 @@
 									<div class="col-md-3 col-sm-6">	
                                     <div class="tray text-center">											
 											<!-- Heading -->
-											<h3><i class="fa fa-home color"></i> &nbsp;Single Page</h3>
+											<h3><i class="fa fa-home color"></i> &nbsp;大单交易</h3>
 											<!-- Paragraph -->
 											<p>Duis aute irure dolor in repreh enderit in voluptate velit esse cillum dolore pariatur.</p> 										
 									 </div>
@@ -137,7 +138,7 @@
                                     <div class="col-md-3 col-sm-6">		
                                     <div class="tray text-center">								
 											<!-- Heading -->
-											<h3><i class="fa fa-coffee color"></i> &nbsp;Responsive</h3>
+											<h3><i class="fa fa-coffee color"></i> &nbsp;明日涨跌预测</h3>
 											<!-- Paragraph -->
 											<p>Duis aute irure dolor in repreh enderit in voluptate velit esse cillum dolore pariatur.</p> 	
                                             </div>									
